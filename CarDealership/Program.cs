@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace ProjectName // Change project name!
-{
+namespace CarDealership.Program
+{ 
   class Program
   {
     static void Main(string[] args)
